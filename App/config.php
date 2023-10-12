@@ -14,6 +14,7 @@
 
     //define constante global llamada url se almacena $url
     define('URL',$url);
+    define('URL_PATH',$folderPath);
 
     // echo '<PRE>';
     // var_dump($_SERVER);
